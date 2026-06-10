@@ -1,7 +1,7 @@
 <!--
-  ORIGAMI // ANGEL SYSTEM
+  ORIGAMI // ANGEL SYSTEM (METATRON UPGRADE)
   Fan-made GitHub profile theme for Naufalspurnomo.
-  Main colors: #020617 #07111f #38bdf8 #7dd3fc #e0f2fe
+  Main colors: #020617 #07111f #0e7490 #38bdf8 #f8fafc #fcd34d
 -->
 
 <div align="center">
@@ -9,14 +9,14 @@
 <img src="./assets/origami-banner.png" width="100%" alt="Tobiichi Origami — Code Angel Naufalspurnomo" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&repeat=true&width=820&height=48&lines=ANGEL+SYSTEM+ONLINE+%E2%80%94+WELCOME%2C+OPERATOR;Creative+Developer+%E2%80%A2+Multimedia+Creator+%E2%80%A2+Automation+Builder;Precision+in+every+frame.+Purpose+in+every+build." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=E0F2FE&center=true&vCenter=true&repeat=true&width=820&height=50&lines=ANGEL+SYSTEM+ONLINE+%E2%80%94+METATRON+PROTOCOL+ENGAGED;Creative+Developer+%E2%80%A2+Multimedia+Creator+%E2%80%A2+Web3+Explorer;%22I+will+destroy+all+bugs...+without+hesitation.%22;Precision+over+noise.+Purpose+in+every+build." alt="Typing introduction" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Naufalspurnomo?label=FOLLOWERS&style=for-the-badge&color=0369a1&labelColor=07111f" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=0284c7&labelColor=07111f" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge&labelColor=07111f" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Naufalspurnomo?label=ALLIES&style=for-the-badge&color=0369a1&labelColor=07111f" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=STAR%20POWER&style=for-the-badge&color=0284c7&labelColor=07111f" alt="GitHub stars" />
 
 </div>
 
@@ -24,47 +24,46 @@
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="55%" valign="top">
 
-### `PLAYER // NAUFALSPURNOMO`
+### ❖ `PLAYER // NAUFALSPURNOMO`
+
+> *"If it's for the sake of the mission, I will master any technology."*
 
 ```yaml
-codename: "Code Angel"
+designation: "Code Angel"
 class: "Creative Developer"
 location: "Bogor, Indonesia"
-background:
+combat_style:
   - "Multimedia & Graphic Design"
-  - "Web Development"
-  - "Automation & AI"
-current_arc:
-  - "Building creative web experiences"
-  - "Exploring blockchain and AI agents"
-core_protocol: "Create • Innovate • Protect"
+  - "Interactive Web Development"
+  - "AI Agents & Automation"
+directive: "Create • Innovate • Protect"
 ```
 
-> **Precision over noise.** I combine code, visual design, motion, and automation to build experiences that feel useful and memorable.
+**[ ENHANCED PRECISION ]**
+I combine code, visual design, motion, and automation to build experiences that are both aesthetically striking and highly functional. 
 
 </td>
-<td width="46%" valign="top">
+<td width="45%" valign="top">
 
-### `SYSTEM STATUS`
+### ❖ `SYSTEM STATUS`
 
 ```text
-ANGEL CORE        [██████████] ONLINE
+METATRON CORE     [██████████] ONLINE
 CREATIVE DRIVE    [█████████░]  92%
 WEB ENGINE        [████████░░]  84%
 AI LINK           [███████░░░]  76%
 WEB3 SYNC         [██████░░░░]  68%
 
-MODE              BUILD / LEARN / REPEAT
+MODE              BUILD / LEARN / ADAPT
 ```
 
-**Current focus**
-
-- Interactive web projects
-- AI-powered utilities and agents
-- UI/UX, motion graphics, and 2D animation
-- Clean automation for repetitive workflows
+**[ CURRENT DIRECTIVES ]**
+- ✦ Interactive web projects
+- ✦ AI-powered utilities & agents
+- ✦ UI/UX, motion graphics & 2D
+- ✦ Clean automation workflows
 
 </td>
 </tr>
@@ -72,28 +71,45 @@ MODE              BUILD / LEARN / REPEAT
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `ARMAMENT // TECH LOADOUT`
+## ❖ `ARMAMENT // TECH LOADOUT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,tailwind,git,github,docker,linux&theme=dark&perline=12" alt="Development technologies" />
+**[ CORE LANGUAGES & WEB ENGINES ]**<br/>
+<img src="https://img.shields.io/badge/Python-07111f?style=for-the-badge&logo=python&logoColor=fcd34d" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-07111f?style=for-the-badge&logo=javascript&logoColor=fcd34d" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-07111f?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-07111f?style=for-the-badge&logo=html5&logoColor=ea580c" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-07111f?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-07111f?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-07111f?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-07111f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="TailwindCSS" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,figma,blender,vscode&theme=dark&perline=7" alt="Creative technologies" />
+**[ CREATIVE ARSENAL ]**<br/>
+<img src="https://img.shields.io/badge/Photoshop-07111f?style=for-the-badge&logo=adobephotoshop&logoColor=38bdf8" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-07111f?style=for-the-badge&logo=adobeillustrator&logoColor=f97316" alt="Illustrator" />
+<img src="https://img.shields.io/badge/After_Effects-07111f?style=for-the-badge&logo=adobeaftereffects&logoColor=9333ea" alt="After Effects" />
+<img src="https://img.shields.io/badge/Premiere_Pro-07111f?style=for-the-badge&logo=adobepremierepro&logoColor=9333ea" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/Figma-07111f?style=for-the-badge&logo=figma&logoColor=f43f5e" alt="Figma" />
+<img src="https://img.shields.io/badge/Blender-07111f?style=for-the-badge&logo=blender&logoColor=f97316" alt="Blender" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Solana-07111f?style=for-the-badge&logo=solana&logoColor=7dd3fc" alt="Solana" />
-<img src="https://img.shields.io/badge/Ethereum-07111f?style=for-the-badge&logo=ethereum&logoColor=e0f2fe" alt="Ethereum" />
-<img src="https://img.shields.io/badge/AI%20Agents-07111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" alt="AI agents" />
-<img src="https://img.shields.io/badge/Automation-07111f?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Automation" />
+**[ SPECIALIZED PROTOCOLS ]**<br/>
+<img src="https://img.shields.io/badge/Solana-07111f?style=for-the-badge&logo=solana&logoColor=14b8a6" alt="Solana" />
+<img src="https://img.shields.io/badge/Ethereum-07111f?style=for-the-badge&logo=ethereum&logoColor=94a3b8" alt="Ethereum" />
+<img src="https://img.shields.io/badge/AI_Agents-07111f?style=for-the-badge&logo=openai&logoColor=10b981" alt="AI agents" />
+<img src="https://img.shields.io/badge/GitHub_Actions-07111f?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Automation" />
+<img src="https://img.shields.io/badge/Docker-07111f?style=for-the-badge&logo=docker&logoColor=0284c7" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-07111f?style=for-the-badge&logo=linux&logoColor=fcd34d" alt="Linux" />
 
 </div>
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `MISSION BOARD // CURRENT QUESTS`
+## ❖ `MISSION BOARD // CURRENT QUESTS`
 
 <table>
 <tr>
@@ -104,13 +120,12 @@ MODE              BUILD / LEARN / REPEAT
 </tr>
 </table>
 
-```text
-NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, and a clear identity.
-```
+> **[ INCOMING TRANSMISSION ]**<br/>
+> `NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, and a clear identity.`
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `BATTLE DATA // GITHUB TELEMETRY`
+## ❖ `BATTLE DATA // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -123,11 +138,11 @@ NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, an
 
 </div>
 
-> The two local cards above are refreshed by GitHub Actions. This avoids relying on the rate-limited public stats endpoint.
+> *The two local cards above are refreshed by AST automated routines (GitHub Actions) to avoid public surveillance rate limits.*
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `ANGEL ROUTE // CONTRIBUTION ANIMATION`
+## ❖ `ANGEL ROUTE // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -141,14 +156,47 @@ NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, an
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `LINK TERMINAL // CONNECT`
+## ❖ `CLASSIFIED ARCHIVES`
+
+<details>
+<summary><b>[ CLICK TO DECRYPT : ADDITIONAL INTEL ]</b></summary>
+<br/>
+
+```text
+> EXTRACTING DATA...
+> MATCH FOUND: 1
+
+[ PREFERRED WEAPONRY / IDE ]
+- Visual Studio Code
+- Theme: Dark Modern / Cyberpunk
+- Font: JetBrains Mono
+
+[ HOBBIES OUTSIDE COMBAT ]
+- Analyzing UI/UX patterns
+- Reading sci-fi and tech docs
+- Experimenting with generative AI
+```
+</details>
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## ❖ `LINK TERMINAL // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/Naufalspurnomo">
-  <img src="https://img.shields.io/badge/GitHub-Naufalspurnomo-07111f?style=for-the-badge&logo=github&logoColor=e0f2fe" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Naufalspurnomo-07111f?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub" />
 </a>
-<!-- Add your real portfolio, LinkedIn, Instagram, Discord, or email badges here. -->
+<!-- Ganti link dengan akun asli Anda -->
+<a href="mailto:naufalspurnomo@gmail.com">
+  <img src="https://img.shields.io/badge/Secure_Comms-Email-07111f?style=for-the-badge&logo=gmail&logoColor=f43f5e" alt="Email" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-07111f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Online-07111f?style=for-the-badge&logo=vercel&logoColor=f8fafc" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
@@ -156,6 +204,6 @@ NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, an
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:020617,50:0e7490,100:7dd3fc&text=MISSION%20CONTINUES...&fontColor=e0f2fe&fontSize=16&fontAlignY=72&animation=fadeIn" width="100%" alt="Mission continues" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:020617,50:0e7490,100:38bdf8&text=MISSION%20CONTINUES...&fontColor=e0f2fe&fontSize=16&fontAlignY=72&animation=fadeIn" width="100%" alt="Mission continues" />
 
 </div>
