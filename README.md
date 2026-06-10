@@ -8,63 +8,56 @@
 
 <img src="./assets/origami-banner.png" width="100%" alt="Tobiichi Origami — Code Angel Naufalspurnomo" />
 
+<br/><br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&repeat=true&width=820&height=48&lines=ANGEL+SYSTEM+ONLINE+%E2%80%94+WELCOME%2C+OPERATOR;Creative+Developer+%E2%80%A2+Multimedia+Creator+%E2%80%A2+Automation+Builder;Precision+in+every+frame.+Purpose+in+every+build." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&repeat=true&width=820&height=50&lines=%5B+%E2%9C%A7+METATRON+PROTOCOL+ENGAGED+%E2%9C%A7+%5D;Creative+Developer+%E2%80%A2+Multimedia+Creator+%E2%80%A2+Web3+Explorer;%22I+will+protect+what+matters...+without+hesitation.%22;Precision+over+noise.+Execution+with+purpose." alt="Typing introduction" />
 </a>
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Naufalspurnomo?label=FOLLOWERS&style=for-the-badge&color=0369a1&labelColor=07111f" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=0284c7&labelColor=07111f" alt="GitHub stars" />
+```diff
++ SYSTEM BOOT SEQUENCE INITIATED...
+! LOADING CORE MODULES: [WEB_ENGINE] [CREATIVE_DRIVE] [AI_LINK]
+# AUTHORIZATION GRANTED: OPERATOR NAUFALSPURNOMO
+```
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+<div align="center">
+
+| ❖ `SYSTEM IDENTIFICATION` | ❖ `NETWORK TELEMETRY` |
+|:---|:---|
+| <br/>**CODENAME:** Code Angel<br/>**CLASS:** Creative Developer<br/>**BASE:** Bogor, Indonesia<br/>**DIRECTIVE:** Create • Innovate • Protect<br/><br/>*"Precision over noise. I combine code, visual design, motion, and automation to build experiences that feel useful and memorable."*<br/><br/> | <br/>![Profile Views](https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge)<br/><br/>![Followers](https://img.shields.io/github/followers/Naufalspurnomo?label=ALLIES&style=for-the-badge&color=0369a1&labelColor=07111f)<br/><br/>![Stars](https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=STAR%20POWER&style=for-the-badge&color=0284c7&labelColor=07111f)<br/><br/> |
 
 </div>
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
+### ❖ `ANGEL CORE // SYSTEM STATUS`
+
 <table>
 <tr>
-<td width="54%" valign="top">
-
-### `PLAYER // NAUFALSPURNOMO`
-
-```yaml
-codename: "Code Angel"
-class: "Creative Developer"
-location: "Bogor, Indonesia"
-background:
-  - "Multimedia & Graphic Design"
-  - "Web Development"
-  - "Automation & AI"
-current_arc:
-  - "Building creative web experiences"
-  - "Exploring blockchain and AI agents"
-core_protocol: "Create • Innovate • Protect"
-```
-
-> **Precision over noise.** I combine code, visual design, motion, and automation to build experiences that feel useful and memorable.
-
-</td>
-<td width="46%" valign="top">
-
-### `SYSTEM STATUS`
+<td width="50%" valign="top">
 
 ```text
-ANGEL CORE        [██████████] ONLINE
-CREATIVE DRIVE    [█████████░]  92%
-WEB ENGINE        [████████░░]  84%
-AI LINK           [███████░░░]  76%
-WEB3 SYNC         [██████░░░░]  68%
-
-MODE              BUILD / LEARN / REPEAT
+[ ██████████ ] 100% - METATRON CORE
+[ █████████░ ]  92% - CREATIVE DRIVE
+[ ████████░░ ]  84% - WEB ENGINE
+[ ███████░░░ ]  76% - AI LINK
+[ ██████░░░░ ]  68% - WEB3 SYNC
 ```
 
-**Current focus**
+</td>
+<td width="50%" valign="top">
 
-- Interactive web projects
-- AI-powered utilities and agents
-- UI/UX, motion graphics, and 2D animation
-- Clean automation for repetitive workflows
+**[ CURRENT DIRECTIVES ]**
+- ✦ **Interactive Web:** Building dynamic frontend architectures.
+- ✦ **AI Utilities:** Developing autonomous agents & smart workflows.
+- ✦ **Creative Multimedia:** UI/UX, motion graphics, and 2D animation.
+- ✦ **Blockchain:** Exploring smart contracts & Web3 integrations.
 
 </td>
 </tr>
@@ -72,83 +65,119 @@ MODE              BUILD / LEARN / REPEAT
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `ARMAMENT // TECH LOADOUT`
+### ❖ `ARMAMENT // CLASSIFIED TECH LOADOUT`
 
+> *Accessing encrypted skill trees...*
+
+<details>
+<summary><b>[+] EXPAND: CORE DEVELOPMENT ENGINES</b></summary>
+<br/>
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark&perline=12" alt="Development technologies" />
+</div>
+<br/>
+</details>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,tailwind,git,github,docker,linux&theme=dark&perline=12" alt="Development technologies" />
+<details>
+<summary><b>[+] EXPAND: MULTIMEDIA & CREATIVE ARSENAL</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,figma,blender&theme=dark&perline=6" alt="Creative technologies" />
+</div>
+<br/>
+</details>
 
+<details>
+<summary><b>[+] EXPAND: INFRASTRUCTURE & AUTOMATION</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,cloudflare,vercel,supabase&theme=dark&perline=6" alt="Infrastructure" />
 <br/><br/>
-
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,figma,blender,vscode&theme=dark&perline=7" alt="Creative technologies" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Solana-07111f?style=for-the-badge&logo=solana&logoColor=7dd3fc" alt="Solana" />
 <img src="https://img.shields.io/badge/Ethereum-07111f?style=for-the-badge&logo=ethereum&logoColor=e0f2fe" alt="Ethereum" />
 <img src="https://img.shields.io/badge/AI%20Agents-07111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" alt="AI agents" />
 <img src="https://img.shields.io/badge/Automation-07111f?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Automation" />
-
 </div>
+<br/>
+</details>
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `MISSION BOARD // CURRENT QUESTS`
+### ❖ `BATTLE DATA // COMBAT TELEMETRY`
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" align="center"><b>01 // COMPLETE</b><br/><sub>BNSP Multimedia Certification</sub></td>
-<td width="25%" align="center"><b>02 // COMPLETE</b><br/><sub>Creative Portfolio Foundation</sub></td>
-<td width="25%" align="center"><b>03 // ACTIVE</b><br/><sub>AI & Automation Toolkit</sub></td>
-<td width="25%" align="center"><b>04 // ACTIVE</b><br/><sub>Blockchain Development</sub></td>
+<td width="50%" align="center" valign="middle">
+<img width="100%" src="./profile/stats.svg" alt="Naufalspurnomo GitHub statistics" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img width="100%" src="./profile/top-langs.svg" alt="Naufalspurnomo most-used languages" />
+</td>
 </tr>
 </table>
 
-```text
-NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, and a clear identity.
+<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalspurnomo&bg_color=07111f&color=94a3b8&title_color=7dd3fc&line=38bdf8&point=e0f2fe&area=true&area_color=0e7490&hide_border=true&radius=12&custom_title=COMBAT%20LOG%20%2F%2F%20LAST%2031%20DAYS" width="100%" alt="GitHub activity graph" />
+</div>
+
+> *Telemetry data secured. The local cards are refreshed by automated GitHub Actions to bypass public surveillance limits.*
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+### ❖ `MISSION BOARD // ACTIVE QUESTS`
+
+```yaml
+completed_missions:
+  - id: 001
+    title: "BNSP Multimedia Certification"
+    status: "ACHIEVED"
+  - id: 002
+    title: "Creative Portfolio Foundation"
+    status: "DEPLOYED"
+
+active_operations:
+  - id: 003
+    title: "AI & Automation Toolkit"
+    priority: "HIGH"
+  - id: 004
+    title: "Blockchain Development"
+    priority: "CRITICAL"
+
+next_objective: "Ship projects that unite strong visuals, practical code, and a clear identity."
 ```
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `BATTLE DATA // GITHUB TELEMETRY`
+### ❖ `ANGEL ROUTE // CONTRIBUTION MATRIX`
 
 <div align="center">
-
-<img height="195" src="./profile/stats.svg" alt="Naufalspurnomo GitHub statistics" />
-<img height="195" src="./profile/top-langs.svg" alt="Naufalspurnomo most-used languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalspurnomo&bg_color=07111f&color=94a3b8&title_color=7dd3fc&line=38bdf8&point=e0f2fe&area=true&area_color=0e7490&hide_border=true&radius=12&custom_title=COMBAT%20LOG%20%2F%2F%20LAST%2031%20DAYS" width="96%" alt="GitHub activity graph" />
-
-</div>
-
-> The two local cards above are refreshed by GitHub Actions. This avoids relying on the rate-limited public stats endpoint.
-
-<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
-
-## `ANGEL ROUTE // CONTRIBUTION ANIMATION`
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" width="96%" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" width="100%" />
 </picture>
-
 </div>
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## `LINK TERMINAL // CONNECT`
+### ❖ `LINK TERMINAL // SECURE CHANNELS`
 
 <div align="center">
 
 <a href="https://github.com/Naufalspurnomo">
   <img src="https://img.shields.io/badge/GitHub-Naufalspurnomo-07111f?style=for-the-badge&logo=github&logoColor=e0f2fe" alt="GitHub" />
 </a>
-<!-- Add your real portfolio, LinkedIn, Instagram, Discord, or email badges here. -->
+<!-- Edit the '#' links to your actual real life links! -->
+<a href="mailto:naufalspurnomo@gmail.com">
+  <img src="https://img.shields.io/badge/Encrypted_Email-Contact-07111f?style=for-the-badge&logo=gmail&logoColor=f43f5e" alt="Email" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Network-07111f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Access_Granted-07111f?style=for-the-badge&logo=vercel&logoColor=f8fafc" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
