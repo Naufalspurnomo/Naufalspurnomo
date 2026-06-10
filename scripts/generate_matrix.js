@@ -116,14 +116,18 @@ function generateSVG(weeks) {
         imgHref = `data:image/png;base64,${imgBase64}`;
     }
 
-    svg += `<g transform="translate(20, 20)">
-        <image href="${imgHref}" width="48" height="48" x="-24" y="-36" />
-        <animateMotion 
-            path="M -40 ${height/2} L ${pathPoints.join(' L ')}" 
-            dur="15s" 
-            repeatCount="indefinite" 
-            calcMode="linear"
-        />
+    let keyframes = `    <style>\n        @keyframes runMatrix {\n`;
+    keyframes += `            0% { transform: translate(-40px, ${height/2}px); }\n`;
+    pathPoints.forEach((pt, index) => {
+        const [x, y] = pt.split(',');
+        const percentage = 5 + Math.floor((index / (pathPoints.length - 1)) * 95);
+        keyframes += `            ${percentage}% { transform: translate(${x}px, ${y}px); }\n`;
+    });
+    keyframes += `        }\n        .chibi { animation: runMatrix 15s linear infinite; }\n    </style>\n`;
+
+    svg += keyframes;
+    svg += `    <g transform="translate(20, 20)">
+        <image href="${imgHref}" width="48" height="48" x="-24" y="-36" class="chibi" />
     </g>`;
 
     svg += `</svg>`;
