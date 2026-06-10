@@ -152,6 +152,7 @@ next_objective: "Ship projects that unite strong visuals, practical code, and a 
 ### ❖ `ANGEL ROUTE // CONTRIBUTION MATRIX`
 
 <div align="center">
+<img src="./assets/chibi-origami.png" width="160" alt="Chibi Origami" /><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake.svg" />
