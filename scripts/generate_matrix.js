@@ -109,7 +109,7 @@ function generateSVG(weeks) {
     svg += `</g>\n`;
     
     // Add the animated character
-    const imgPath = path.join(__dirname, '..', 'assets', 'chibi-origami.png');
+    const imgPath = path.join(__dirname, '..', 'assets', 'chibi-origami-small.png');
     let imgHref = '';
     if (fs.existsSync(imgPath)) {
         const imgBase64 = fs.readFileSync(imgPath).toString('base64');
