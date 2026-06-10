@@ -153,7 +153,7 @@ next_objective: "Ship projects that unite strong visuals, practical code, and a 
 
 <div align="center">
 <picture>
-  <img alt="Contribution Origami Matrix animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-origami-matrix.svg" width="100%" />
+  <img alt="Contribution Origami Matrix animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/main/assets/github-origami-matrix.svg" width="100%" />
 </picture>
 </div>
 
