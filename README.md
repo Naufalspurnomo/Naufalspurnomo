@@ -149,14 +149,11 @@ next_objective: "Ship projects that unite strong visuals, practical code, and a 
 
 <img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-### ❖ `ANGEL ROUTE // CONTRIBUTION MATRIX`
+### ❖ `ANGEL ROUTE // CUSTOM MATRIX ANIMATION`
 
 <div align="center">
-<img src="./assets/chibi-origami.png" width="160" alt="Chibi Origami" /><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" width="100%" />
+  <img alt="Contribution Origami Matrix animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-origami-matrix.svg" width="100%" />
 </picture>
 </div>
 
