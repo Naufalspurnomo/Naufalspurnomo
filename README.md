@@ -30,7 +30,7 @@
 
 | ❖ `SYSTEM IDENTIFICATION` | ❖ `NETWORK TELEMETRY` |
 |:---|:---|
-| <br/>**CODENAME:** Code Angel<br/>**CLASS:** Creative Developer<br/>**BASE:** Bogor, Indonesia<br/>**DIRECTIVE:** Create • Innovate • Protect<br/><br/>*"Precision over noise. I combine code, visual design, motion, and automation to build experiences that feel useful and memorable."*<br/><br/> | <br/>![Profile Views](https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge)<br/><br/>![Followers](https://img.shields.io/github/followers/Naufalspurnomo?label=ALLIES&style=for-the-badge&color=0369a1&labelColor=07111f)<br/><br/>![Stars](https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=STAR%20POWER&style=for-the-badge&color=0284c7&labelColor=07111f)<br/><br/> |
+| <br/><img src="./assets/system-id.svg" alt="System Identification HUD" width="100%" /><br/> | <br/>![Profile Views](https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge)<br/><br/>![Followers](https://img.shields.io/github/followers/Naufalspurnomo?label=ALLIES&style=for-the-badge&color=0369a1&labelColor=07111f)<br/><br/>![Stars](https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=STAR%20POWER&style=for-the-badge&color=0284c7&labelColor=07111f)<br/><br/> |
 
 </div>
 

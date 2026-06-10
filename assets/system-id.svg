@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0e7490"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .label { font-family: 'Courier New', Courier, monospace; font-weight: bold; fill: #7dd3fc; font-size: 14px; }
+    .value { font-family: 'Courier New', Courier, monospace; fill: #f8fafc; font-size: 14px; font-weight: bold; }
+    .quote { font-family: 'Courier New', Courier, monospace; font-style: italic; fill: #94a3b8; font-size: 12px; }
+    .title { font-family: 'Courier New', Courier, monospace; font-weight: bold; fill: #020617; font-size: 12px; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .cursor { animation: blink 1s step-end infinite; }
+  </style>
+
+  <!-- Outer frame -->
+  <polygon points="10,20 40,5 490,5 490,240 460,255 10,255" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
+  
+  <!-- Top left accent -->
+  <polygon points="10,20 40,5 170,5 150,20" fill="#38bdf8"/>
+  <text x="25" y="14" class="title">SYS_ID // ONLINE</text>
+  
+  <!-- Top right UI lines -->
+  <polyline points="400,5 420,15 480,15" fill="none" stroke="#0e7490" stroke-width="2"/>
+  <circle cx="480" cy="15" r="3" fill="#38bdf8"/>
+  
+  <!-- Bottom right accent -->
+  <polygon points="460,255 490,240 490,220 450,255" fill="#0e7490" opacity="0.5"/>
+
+  <!-- Data rows -->
+  <text x="35" y="60" class="label">CODENAME  :</text> <text x="140" y="60" class="value">Code Angel</text>
+  <text x="35" y="90" class="label">CLASS     :</text> <text x="140" y="90" class="value">Creative Developer</text>
+  <text x="35" y="120" class="label">BASE      :</text> <text x="140" y="120" class="value">Bogor, Indonesia</text>
+  <text x="35" y="150" class="label">DIRECTIVE :</text> <text x="140" y="150" class="value">Create • Innovate • Protect</text>
+  
+  <!-- Divider -->
+  <line x1="35" y1="175" x2="465" y2="175" stroke="#0e7490" stroke-dasharray="4 4" stroke-width="1"/>
+
+  <!-- Quote -->
+  <text x="35" y="200" class="quote">"Precision over noise. I combine code, visual design,</text>
+  <text x="35" y="220" class="quote">motion, and automation to build experiences that</text>
+  <text x="35" y="240" class="quote">feel useful and memorable."<tspan class="cursor" fill="#38bdf8"> █</tspan></text>
+
+  <!-- Futuristic Radar/Reticle Element -->
+  <g transform="translate(420, 90)">
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#0e7490" stroke-width="1" stroke-dasharray="5 5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.6"/>
+    <circle cx="0" cy="0" r="3" fill="#7dd3fc"/>
+    <line x1="-35" y1="0" x2="35" y2="0" stroke="#0e7490" stroke-width="1"/>
+    <line x1="0" y1="-35" x2="0" y2="35" stroke="#0e7490" stroke-width="1"/>
+    
+    <!-- Rotating crosshairs -->
+    <path d="M -15,-15 L -5,-15 M -15,-15 L -15,-5" fill="none" stroke="#fcd34d" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 15,15 L 5,15 M 15,15 L 15,5" fill="none" stroke="#fcd34d" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
