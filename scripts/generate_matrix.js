@@ -109,8 +109,15 @@ function generateSVG(weeks) {
     svg += `</g>\n`;
     
     // Add the animated character
+    const imgPath = path.join(__dirname, '..', 'assets', 'chibi-origami.png');
+    let imgHref = '';
+    if (fs.existsSync(imgPath)) {
+        const imgBase64 = fs.readFileSync(imgPath).toString('base64');
+        imgHref = `data:image/png;base64,${imgBase64}`;
+    }
+
     svg += `<g transform="translate(20, 20)">
-        <image href="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/main/assets/chibi-origami.png" width="48" height="48" x="-24" y="-36" />
+        <image href="${imgHref}" width="48" height="48" x="-24" y="-36" />
         <animateMotion 
             path="M -40 ${height/2} L ${pathPoints.join(' L ')}" 
             dur="15s" 
