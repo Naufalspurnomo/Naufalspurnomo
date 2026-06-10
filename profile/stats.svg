@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub stats placeholder">
+  <rect width="495" height="195" rx="14" fill="#07111f" stroke="#164e63"/>
+  <text x="28" y="45" fill="#7dd3fc" font-family="ui-monospace, monospace" font-size="17" font-weight="700">BATTLE DATA // INITIALIZING</text>
+  <text x="28" y="78" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">Run the “Refresh Battle Data” workflow once.</text>
+  <g fill="#0f2942"><rect x="28" y="108" width="360" height="9" rx="4"/><rect x="28" y="130" width="420" height="9" rx="4"/><rect x="28" y="152" width="280" height="9" rx="4"/></g>
+  <rect x="28" y="108" width="210" height="9" rx="4" fill="#38bdf8"><animate attributeName="width" values="70;360;70" dur="3s" repeatCount="indefinite"/></rect>
+</svg>

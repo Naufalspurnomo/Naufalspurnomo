@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="74" viewBox="0 0 1200 74" role="img" aria-label="Origami angel system divider">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#38bdf8" stop-opacity="0.75"/>
+      <stop offset="0.5" stop-color="#e0f2fe"/>
+      <stop offset="0.65" stop-color="#38bdf8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M80 37h430l28-18 62 36 62-36 28 18h430" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M560 37l40-23 40 23-40 23Z" fill="#07182b" stroke="#bae6fd" stroke-width="2"/>
+  <circle cx="600" cy="37" r="8" fill="#38bdf8" filter="url(#glow)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

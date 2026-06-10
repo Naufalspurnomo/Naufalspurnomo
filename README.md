@@ -1,227 +1,161 @@
+<!--
+  ORIGAMI // ANGEL SYSTEM
+  Fan-made GitHub profile theme for Naufalspurnomo.
+  Main colors: #020617 #07111f #38bdf8 #7dd3fc #e0f2fe
+-->
+
 <div align="center">
 
-<!-- ========== HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:87CEEB,50:c0c0c0,100:ffffff&height=250&section=header&text=Tobiichi%20Origami&fontSize=80&fontColor=ffffff&fontAlignY=30&desc=✦%20Code%20Angel%20/%20Naufalspurnomo%20✦&descSize=20&descAlignY=58&fontAlign=6&animation=twinkling" width="100%"/>
+<img src="./assets/origami-banner.png" width="100%" alt="Tobiichi Origami — Code Angel Naufalspurnomo" />
 
-<!-- ========== ANGEL WINGS DIVIDER ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&repeat=true&width=820&height=48&lines=ANGEL+SYSTEM+ONLINE+%E2%80%94+WELCOME%2C+OPERATOR;Creative+Developer+%E2%80%A2+Multimedia+Creator+%E2%80%A2+Automation+Builder;Precision+in+every+frame.+Purpose+in+every+build." alt="Typing introduction" />
+</a>
 
-<!-- ========== TYPING SVG ========== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=🕊️+%E2%80%9CI+will+become+an+Angel+and+protect+everyone.%E2%80%9D;✨+Creative+Developer+%7C+Multimedia+Creator;🎮+Gamer+at+Heart%2C+Builder+by+Passion;⚡+Always+leveling+up.+Never+giving+up.)](https://git.io/typing-svg)
+<br/>
 
-<!-- ========== PROFILE VIEWS & STATS ========== -->
-<img src="https://komarev.com/ghpvc/?username=Naufalspurnomo&color=c0c0c0&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Naufalspurnomo&label=PROFILE%20SCANS&color=0e7490&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Naufalspurnomo?label=FOLLOWERS&style=for-the-badge&color=0369a1&labelColor=07111f" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Naufalspurnomo?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=0284c7&labelColor=07111f" alt="GitHub stars" />
 
 </div>
 
----
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
 
-## 🕊️ Angel's Profile
+<table>
+<tr>
+<td width="54%" valign="top">
 
-<div align="center">
+### `PLAYER // NAUFALSPURNOMO`
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     ▄▀▀▄  ▄▀▀▄  █    █  █▀▀▄  ▄▀▀▄  ▄▀▀▄  ▀▄ ▄▀              ║
-║     █  █  █  █  █    █  █▀▀▄  █  █  █  █   ▄▀▄                 ║
-║     ▀▀▀▀  ▀▀  ▀  ▀▀▀▀  ▀▀▀   ▀▀▀▀  ▀▀  ▀  █  █                ║
-║                                                                  ║
-║     ✦  Name ........... Naufalspurnomo                           ║
-║     ✦  Alias .......... Tobiichi Origami                         ║
-║     ✦  Class .......... Creative Developer / Code Angel          ║
-║     ✦  Location ....... Bogor, Indonesia 🇮🇩                    ║
-║     ✦  Affiliation .... AST (Anti-Spirit Team) → Developer      ║
-║     ✦  Spirit ......... Angel — Metatron                         ║
-║     ✦  Mission ........ Create • Innovate • Protect              ║
-║                                                                  ║
-║     "I will become an angel and protect everyone."               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-- 🔭 Currently working on **creative web projects & crypto tools**
-- 🎨 Background in **Multimedia & Graphic Design** (Adobe Suite, Canva, CapCut)
-- 🌱 Exploring **Blockchain, AI Agents & Automation**
-- 💡 Passionate about **UI/UX, Motion Graphics & 2D Animation**
-- 🎮 Like Origami — **precise, efficient, and always improving**
-- ⚡ Stats: **BNSP Certified Multimedia** | **SMK + Kuliah** | **PT Berkat Karunia Selamanya**
-
----
-
-## ⚔️ Spirit Armament — Tech Arsenal
-
-<div align="center">
-
-#### 🗡️ Languages — Origami's Blades
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🛡️ Frameworks — Angel's Wings
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🎨 Creative Suite — Metatron's Light
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-#### ⛓️ Web3 — Spirit Realm
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-</div>
-
----
-
-## 📊 Spirit Data — Battle Stats
-
-<div align="center">
-
-<!-- GITHUB STATS (Origami light theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Naufalspurnomo&show_icons=true&theme=neutrons&bg_color=ffffff&hide_border=true&title_color=5b5b5b&icon_color=87CEEB&text_color=5b5b5b&ring_color=87CEEB&include_all_commits=true&count_private=true" width="48%"/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naufalspurnomo&theme=minimal&background=ffffff&ring=87CEEB&fire=87CEEB&currStreakLabel=5b5b5b&sideLabels=8b8b8b" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufalspurnomo&layout=compact&theme=neutrons&bg_color=ffffff&hide_border=true&title_color=5b5b5b&text_color=5b5b5b&langs_count=8" width="40%"/>
-
-<!-- WAKATIME (optional) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naufalspurnomo&theme=neutrons&bg_color=ffffff&hide_border=true&title_color=5b5b5b&text_color=5b5b5b" width="48%"/> -->
-
-</div>
-
----
-
-## 🏆 Spirit Crystals — Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naufalspurnomo&theme=chalk&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=5b5b5b&text_color=8b8b8b" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake — Angel's Path
-
-<div align="center">
-
-<!-- Snake animation will show after first GitHub Actions run -->
-<img src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" alt="snake animation" width="80%"/>
-
-</div>
-
----
-
-## 🔥 Activity Graph — Combat Log
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalspurnomo&bg_color=ffffff&color=c0c0c0&line=87CEEB&point=5b5b5b&area=true&area_color=e8f4fd&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎯 Quest Log — Current Missions
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [✅] Quest 01: Complete Multimedia Certification (BNSP)     │
-│  [✅] Quest 02: Build Creative Portfolio                     │
-│  [🔄] Quest 03: Master Blockchain & Web3 Development        │
-│  [🔄] Quest 04: Build AI-Powered Tools                      │
-│  [🔒] Quest 05: Launch Creative Agency Website              │
-│  [🔒] Quest 06: Achieve 100+ GitHub Contributions           │
-│                                                             │
-│  Legend: ✅ Complete  🔄 In Progress  🔒 Locked             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+```yaml
+codename: "Code Angel"
+class: "Creative Developer"
+location: "Bogor, Indonesia"
+background:
+  - "Multimedia & Graphic Design"
+  - "Web Development"
+  - "Automation & AI"
+current_arc:
+  - "Building creative web experiences"
+  - "Exploring blockchain and AI agents"
+core_protocol: "Create • Innovate • Protect"
 ```
 
-</div>
+> **Precision over noise.** I combine code, visual design, motion, and automation to build experiences that feel useful and memorable.
 
----
+</td>
+<td width="46%" valign="top">
 
-## 🌐 Connect With Me
+### `SYSTEM STATUS`
 
-<div align="center">
+```text
+ANGEL CORE        [██████████] ONLINE
+CREATIVE DRIVE    [█████████░]  92%
+WEB ENGINE        [████████░░]  84%
+AI LINK           [███████░░░]  76%
+WEB3 SYNC         [██████░░░░]  68%
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RamadhaniFariz)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naufalspurnomo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fariz_rmd)
-
-</div>
-
----
-
-## 💭 Angel's Wisdom
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🕊️ Angel's Blessing
-
-<div align="center">
-
-```
-                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-               ▄▄▀▀▀               ▀▀▀▄▄
-           ▄▄▀▀                         ▀▀▄▄
-        ▄▀▀                                 ▀▀▄
-      ▄▀                                     ▀▄
-    ▄▀    ✦                                   ▀▄
-   █   "Tohka... I will                        █
-   █    protect everyone."                      █
-    ▀▄                                       ▄▀
-      ▀▄                                   ▄▀
-        ▀▄▄                           ▄▄▀
-           ▀▀▀▄▄                 ▄▄▀▀▀
-               ▀▀▀▄▄▄▄▄▄▄▄▄▄▄▀▀▀
-                    ▀▀▀▀▀▀▀▀▀
-                        ▼
-                    ╔═══════╗
-                    ║  ✦ ✦  ║
-                    ║ ANGEL ║
-                    ║  ✦ ✦  ║
-                    ╚═══════╝
+MODE              BUILD / LEARN / REPEAT
 ```
 
-</div>
+**Current focus**
 
----
+- Interactive web projects
+- AI-powered utilities and agents
+- UI/UX, motion graphics, and 2D animation
+- Clean automation for repetitive workflows
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## `ARMAMENT // TECH LOADOUT`
 
 <div align="center">
 
-### ⭐ If you like what you see, drop a star!
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,tailwind,git,github,docker,linux&theme=dark&perline=12" alt="Development technologies" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br/><br/>
 
-<!-- ========== FOOTER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:87CEEB,50:c0c0c0,100:ffffff&height=100&section=footer&text=%E2%9C%A8+Like+Origami%2C+I+never+give+up.+%E2%9C%A8&fontSize=18&fontColor=5b5b5b&animation=fadeIn" width="100%"/>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,figma,blender,vscode&theme=dark&perline=7" alt="Creative technologies" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Solana-07111f?style=for-the-badge&logo=solana&logoColor=7dd3fc" alt="Solana" />
+<img src="https://img.shields.io/badge/Ethereum-07111f?style=for-the-badge&logo=ethereum&logoColor=e0f2fe" alt="Ethereum" />
+<img src="https://img.shields.io/badge/AI%20Agents-07111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" alt="AI agents" />
+<img src="https://img.shields.io/badge/Automation-07111f?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Automation" />
+
+</div>
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## `MISSION BOARD // CURRENT QUESTS`
+
+<table>
+<tr>
+<td width="25%" align="center"><b>01 // COMPLETE</b><br/><sub>BNSP Multimedia Certification</sub></td>
+<td width="25%" align="center"><b>02 // COMPLETE</b><br/><sub>Creative Portfolio Foundation</sub></td>
+<td width="25%" align="center"><b>03 // ACTIVE</b><br/><sub>AI & Automation Toolkit</sub></td>
+<td width="25%" align="center"><b>04 // ACTIVE</b><br/><sub>Blockchain Development</sub></td>
+</tr>
+</table>
+
+```text
+NEXT OBJECTIVE  →  Ship projects that unite strong visuals, practical code, and a clear identity.
+```
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## `BATTLE DATA // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="195" src="./profile/stats.svg" alt="Naufalspurnomo GitHub statistics" />
+<img height="195" src="./profile/top-langs.svg" alt="Naufalspurnomo most-used languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalspurnomo&bg_color=07111f&color=94a3b8&title_color=7dd3fc&line=38bdf8&point=e0f2fe&area=true&area_color=0e7490&hide_border=true&radius=12&custom_title=COMBAT%20LOG%20%2F%2F%20LAST%2031%20DAYS" width="96%" alt="GitHub activity graph" />
+
+</div>
+
+> The two local cards above are refreshed by GitHub Actions. This avoids relying on the rate-limited public stats endpoint.
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## `ANGEL ROUTE // CONTRIBUTION ANIMATION`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Naufalspurnomo/Naufalspurnomo/output/github-snake-dark.svg" width="96%" />
+</picture>
+
+</div>
+
+<img src="./assets/origami-divider.svg" width="100%" alt="divider" />
+
+## `LINK TERMINAL // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Naufalspurnomo">
+  <img src="https://img.shields.io/badge/GitHub-Naufalspurnomo-07111f?style=for-the-badge&logo=github&logoColor=e0f2fe" alt="GitHub" />
+</a>
+<!-- Add your real portfolio, LinkedIn, Instagram, Discord, or email badges here. -->
+
+<br/><br/>
+
+<sub>「 ANGEL SYSTEM // BUILD WITH PRECISION 」</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:020617,50:0e7490,100:7dd3fc&text=MISSION%20CONTINUES...&fontColor=e0f2fe&fontSize=16&fontAlignY=72&animation=fadeIn" width="100%" alt="Mission continues" />
 
 </div>

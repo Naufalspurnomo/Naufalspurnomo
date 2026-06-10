@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Origami Angel System profile banner</title>
+  <desc id="desc">Anime game HUD inspired banner with a silver-haired angel operator, blue holographic interface, and Naufalspurnomo title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.46" stop-color="#07182b"/>
+      <stop offset="1" stop-color="#0b2740"/>
+    </linearGradient>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.55" stop-color="#94a3b8"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#e0f2fe" stop-opacity="1"/>
+      <stop offset="0.35" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 1H6" stroke="#e0f2fe" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <clipPath id="frame"><path d="M24 24H1376V496H24Z"/></clipPath>
+  </defs>
+
+  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="520" rx="28" fill="url(#grid)"/>
+  <rect width="1400" height="520" rx="28" fill="url(#scan)"/>
+
+  <!-- atmospheric light -->
+  <ellipse cx="1090" cy="245" rx="330" ry="250" fill="#0ea5e9" opacity="0.08" filter="url(#soft)"/>
+  <ellipse cx="690" cy="500" rx="600" ry="70" fill="#38bdf8" opacity="0.08" filter="url(#soft)"/>
+
+  <!-- HUD frame -->
+  <path d="M38 112V48Q38 32 54 32H310M1362 112V48Q1362 32 1346 32H1090M38 408v64q0 16 16 16h256M1362 408v64q0 16-16 16h-256" fill="none" stroke="#bae6fd" stroke-opacity="0.72" stroke-width="2"/>
+  <path d="M54 42H210l16 14h104M1346 42h-156l-16 14h-104" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M54 478H230l14-14h116M1346 478h-176l-14-14h-116" fill="none" stroke="#38bdf8" stroke-width="3"/>
+
+  <!-- top status rail -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">
+    <text x="64" y="80" fill="#7dd3fc">AST // ANGEL CONTROL INTERFACE</text>
+    <text x="1030" y="80" fill="#94a3b8">UNIT 01</text>
+    <circle cx="1126" cy="75" r="5" fill="#22d3ee" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1142" y="80" fill="#e2e8f0">SYSTEM ONLINE</text>
+  </g>
+
+  <!-- left copy -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="74" y="160" fill="#94a3b8" font-size="18" font-weight="600" letter-spacing="7">TOBIICHI</text>
+    <text x="68" y="238" fill="url(#ice)" font-size="86" font-weight="800" letter-spacing="2">ORIGAMI</text>
+    <rect x="72" y="260" width="520" height="3" rx="2" fill="#38bdf8" opacity="0.9"/>
+    <rect x="72" y="260" width="130" height="3" rx="2" fill="#f8fafc" filter="url(#glow)">
+      <animate attributeName="x" values="72;462;72" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="74" y="306" fill="#e2e8f0" font-size="25" font-weight="700" letter-spacing="1">NAUFALSPURNOMO</text>
+    <text x="74" y="340" fill="#7dd3fc" font-size="17" font-weight="600" letter-spacing="3">CREATIVE DEVELOPER // MULTIMEDIA OPERATOR</text>
+    <text x="74" y="382" fill="#94a3b8" font-size="16">Precision in every frame. Purpose in every build.</text>
+  </g>
+
+  <!-- mini stat panels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g transform="translate(74 414)">
+      <path d="M0 0h138l10 10v44H0Z" fill="#07111f" stroke="#164e63"/>
+      <text x="14" y="21" fill="#64748b" font-size="11" letter-spacing="2">CLASS</text>
+      <text x="14" y="43" fill="#e0f2fe" font-size="14" font-weight="700">CODE ANGEL</text>
+    </g>
+    <g transform="translate(230 414)">
+      <path d="M0 0h154l10 10v44H0Z" fill="#07111f" stroke="#164e63"/>
+      <text x="14" y="21" fill="#64748b" font-size="11" letter-spacing="2">LOADOUT</text>
+      <text x="14" y="43" fill="#e0f2fe" font-size="14" font-weight="700">WEB // AI // DESIGN</text>
+    </g>
+    <g transform="translate(412 414)">
+      <path d="M0 0h158l10 10v44H0Z" fill="#07111f" stroke="#164e63"/>
+      <text x="14" y="21" fill="#64748b" font-size="11" letter-spacing="2">MISSION</text>
+      <text x="14" y="43" fill="#e0f2fe" font-size="14" font-weight="700">CREATE // PROTECT</text>
+    </g>
+  </g>
+
+  <!-- angel wing system behind character -->
+  <g transform="translate(1035 255)" opacity="0.9">
+    <g fill="url(#steel)" stroke="#bae6fd" stroke-width="2">
+      <path d="M-48 12L-275-120l55 102-94-12 124 70-80 14 170 48Z" opacity="0.6"/>
+      <path d="M48 12L275-120l-55 102 94-12-124 70 80 14-170 48Z" opacity="0.6"/>
+      <path d="M-64 34L-225 148l58-16-24 52 132-88Z" opacity="0.45"/>
+      <path d="M64 34L225 148l-58-16 24 52-132-88Z" opacity="0.45"/>
+    </g>
+    <circle r="132" fill="none" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="8 12">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="108" fill="none" stroke="#e0f2fe" stroke-opacity="0.22"/>
+    <circle r="75" fill="url(#core)" opacity="0.55">
+      <animate attributeName="opacity" values="0.25;0.65;0.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- stylized silver-haired operator -->
+  <g transform="translate(1018 98)">
+    <!-- shoulders / suit -->
+    <path d="M42 355C70 303 112 285 160 279c48 6 90 24 118 76l22 67H20Z" fill="#0f172a" stroke="#7dd3fc" stroke-width="2"/>
+    <path d="M86 327l74 57 74-57-26-34-48 18-48-18Z" fill="#172554" stroke="#bae6fd" stroke-opacity="0.5"/>
+    <path d="M131 304l29 79 29-79-29-15Z" fill="#e0f2fe" opacity="0.95"/>
+    <!-- neck -->
+    <path d="M136 242h48l8 60-32 22-32-22Z" fill="#dbeafe"/>
+    <!-- face -->
+    <path d="M94 112c5-61 39-92 66-92 52 0 80 42 74 103l-9 70c-5 41-35 72-65 72s-60-31-65-72Z" fill="#e5e7eb" stroke="#bae6fd" stroke-width="2"/>
+    <!-- hair mass -->
+    <path d="M78 118C72 48 109 4 164 4c62 0 94 44 86 116l-25 47-7-79-24 57-12-70-28 75-9-66-29 75-4-57-24 68Z" fill="url(#ice)" stroke="#f8fafc" stroke-width="2"/>
+    <!-- bangs -->
+    <path d="M102 46l18 104 20-114 17 113 25-126 10 124 34-103-11 136H98Z" fill="#f8fafc" opacity="0.92"/>
+    <!-- eyes -->
+    <path d="M116 174q20-13 38 0M169 174q20-13 38 0" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M124 176h20M177 176h20" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+    <circle cx="134" cy="176" r="2.7" fill="#f8fafc"/><circle cx="187" cy="176" r="2.7" fill="#f8fafc"/>
+    <!-- nose and mouth -->
+    <path d="M160 179l-5 25 9 2M148 226q12 8 24 0" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round"/>
+    <!-- headset -->
+    <path d="M82 135q-12 45 6 77M238 135q12 45-6 77" fill="none" stroke="#38bdf8" stroke-width="6"/>
+    <rect x="70" y="172" width="20" height="48" rx="5" fill="#0f172a" stroke="#7dd3fc"/>
+    <rect x="230" y="172" width="20" height="48" rx="5" fill="#0f172a" stroke="#7dd3fc"/>
+    <path d="M236 211q35 10 38 42" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+    <circle cx="274" cy="256" r="7" fill="#22d3ee" filter="url(#glow)"/>
+    <!-- halo -->
+    <ellipse cx="160" cy="5" rx="82" ry="22" fill="none" stroke="#e0f2fe" stroke-width="4" filter="url(#glow)" opacity="0.85">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- right telemetry -->
+  <g transform="translate(1260 126)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+    <path d="M0 0h82v210H0" fill="none" stroke="#155e75"/>
+    <text x="10" y="24" fill="#64748b">SYNC</text>
+    <rect x="10" y="38" width="54" height="5" fill="#0f2942"/><rect x="10" y="38" width="47" height="5" fill="#38bdf8"/>
+    <text x="10" y="67" fill="#64748b">CORE</text>
+    <rect x="10" y="81" width="54" height="5" fill="#0f2942"/><rect x="10" y="81" width="52" height="5" fill="#e0f2fe"/>
+    <text x="10" y="110" fill="#64748b">FOCUS</text>
+    <rect x="10" y="124" width="54" height="5" fill="#0f2942"/><rect x="10" y="124" width="45" height="5" fill="#7dd3fc"/>
+    <text x="10" y="154" fill="#64748b">LEVEL</text>
+    <text x="10" y="182" fill="#e0f2fe" font-size="24" font-weight="700">∞</text>
+  </g>
+
+  <!-- animated scan beam -->
+  <rect x="24" y="40" width="1352" height="2" fill="#7dd3fc" opacity="0.22" clip-path="url(#frame)">
+    <animate attributeName="y" values="44;480;44" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="1322" y="505" fill="#475569" font-family="ui-monospace, monospace" font-size="9" text-anchor="end" letter-spacing="1">FAN-MADE PROFILE THEME // BUILD 01</text>
+</svg>
