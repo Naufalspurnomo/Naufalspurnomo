@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1460" viewBox="0 0 720 1460" role="img" aria-labelledby="title desc">
+  <title id="title">Angel System mobile technology loadout</title>
+  <desc id="desc">Animated phone-readable five-module loadout listing interface, product, automation, learning, and delivery tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061426"/><stop offset=".56" stop-color="#091c31"/><stop offset="1" stop-color="#030b16"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0ea5e9" stop-opacity=".25"/><stop offset=".5" stop-color="#bae6fd"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".13"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".05"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .route{animation:route 4.5s linear infinite}.scan{animation:scan 7s ease-in-out infinite}.blink{animation:blink 2s ease-in-out infinite}.trace{animation:trace 6s ease-in-out infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}
+    @keyframes route{to{stroke-dashoffset:-180}}@keyframes scan{0%,10%{transform:translateY(-180px);opacity:0}18%{opacity:1}70%,100%{transform:translateY(1460px);opacity:0}}@keyframes blink{0%,100%{opacity:.3}50%{opacity:1}}@keyframes trace{0%,100%{stroke-dashoffset:1500;opacity:.35}50%,75%{stroke-dashoffset:0;opacity:1}}@keyframes pulse{0%,100%{transform:scale(.85);opacity:.45}50%{transform:scale(1.15);opacity:1}}
+    @media(prefers-reduced-motion:reduce){.route,.scan,.blink,.trace,.pulse{animation:none!important}.scan{display:none}.trace{stroke-dashoffset:0;opacity:1}.blink,.pulse{opacity:1}}
+    .label{font:700 25px Arial,Helvetica,sans-serif;letter-spacing:4px;fill:#38bdf8}.module-title{font:800 32px Arial,Helvetica,sans-serif;letter-spacing:2px;fill:#e0f2fe}.tool{font:600 29px Arial,Helvetica,sans-serif;fill:#d8f3ff}.micro{font:700 18px Arial,Helvetica,sans-serif;letter-spacing:3px;fill:#7dd3fc}.num{font:800 52px Arial,Helvetica,sans-serif;fill:#164e63}
+  </style>
+  <path d="M22 18H658L698 58V1396L664 1442H58L22 1406Z" fill="url(#bg)" stroke="#164e63" stroke-width="3"/>
+  <path d="M39 38H646L680 70V1385L650 1424H70L40 1394Z" fill="url(#grid)"/>
+  <path class="trace" d="M22 18H658L698 58V1396L664 1442H58L22 1406Z" fill="none" stroke="url(#edge)" stroke-width="3" stroke-dasharray="1500 1500"/>
+  <path d="M48 62H415" stroke="#38bdf8" stroke-width="2"/><path d="M415 62H654" stroke="#164e63" stroke-width="2"/>
+  <text x="50" y="105" class="label">ANGEL ARSENAL</text><text x="50" y="137" class="micro">MOBILE DEPLOYMENT MATRIX</text>
+  <g transform="translate(645 103)"><circle r="8" fill="#67e8f9" class="blink" filter="url(#glow)"/><circle r="19" fill="none" stroke="#164e63"/></g>
+
+  <path d="M62 177V1362" stroke="#164e63" stroke-width="4"/>
+  <path class="route" d="M62 177V1362" stroke="#67e8f9" stroke-width="4" stroke-dasharray="12 168" fill="none"/>
+
+  <g transform="translate(82 170)">
+    <path d="M0 22L22 0H528L556 28V210L534 232H0Z" fill="#071827" stroke="#164e63" stroke-width="2"/>
+    <path d="M0 22L22 0H330" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <text x="25" y="65" class="num">01</text><text x="105" y="43" class="label">INTERFACE</text><text x="105" y="80" class="module-title">SURFACE ENGINE</text>
+    <path d="M25 103H520" stroke="#164e63" stroke-width="2"/>
+    <text x="25" y="146" class="tool">React · Next.js · Vue.js</text><text x="25" y="190" class="tool">TypeScript · JavaScript</text><text x="25" y="222" class="tool">Tailwind CSS</text>
+    <circle cx="519" cy="47" r="10" fill="#67e8f9" class="pulse" style="transform-origin:519px 47px"/>
+  </g>
+
+  <g transform="translate(82 420)">
+    <path d="M0 0H530L556 26V232H22L0 210Z" fill="#071827" stroke="#164e63" stroke-width="2"/>
+    <path d="M0 0H330" stroke="#38bdf8" stroke-width="3"/>
+    <text x="25" y="65" class="num">02</text><text x="105" y="43" class="label">PRODUCT</text><text x="105" y="80" class="module-title">SYSTEM CORE</text>
+    <path d="M25 103H520" stroke="#164e63" stroke-width="2"/>
+    <text x="25" y="146" class="tool">Node.js · REST APIs</text><text x="25" y="187" class="tool">PostgreSQL · Prisma</text><text x="25" y="222" class="tool">authentication · payments</text>
+    <circle cx="519" cy="47" r="9" fill="#38bdf8" class="blink" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(82 670)">
+    <path d="M0 0H556V232L534 254H22L0 232Z" fill="#071827" stroke="#164e63" stroke-width="2"/>
+    <path d="M0 0H350" stroke="#67e8f9" stroke-width="3"/>
+    <text x="25" y="65" class="num">03</text><text x="105" y="43" class="label">AUTOMATION</text><text x="105" y="80" class="module-title">WORKFLOW ARRAY</text>
+    <path d="M25 103H520" stroke="#164e63" stroke-width="2"/>
+    <text x="25" y="146" class="tool">Python · OCR</text><text x="25" y="187" class="tool">media processing</text><text x="25" y="228" class="tool">AI/LLM integration · PDF workflows</text>
+    <path d="M502 55l17-28 17 28Z" fill="none" stroke="#7dd3fc" stroke-width="2" class="blink"/>
+  </g>
+
+  <g transform="translate(82 942)">
+    <path d="M0 0H530L556 26V210L534 232H0Z" fill="#071827" stroke="#164e63" stroke-width="2"/>
+    <path d="M0 0H320" stroke="#38bdf8" stroke-width="3"/>
+    <text x="25" y="65" class="num">04</text><text x="105" y="43" class="label">LEARNING</text><text x="105" y="80" class="module-title">KNOWLEDGE LINK</text>
+    <path d="M25 103H520" stroke="#164e63" stroke-width="2"/>
+    <text x="25" y="151" class="tool">PHP · WordPress</text><text x="25" y="199" class="tool">LMS operations · content systems</text>
+    <circle cx="519" cy="47" r="9" fill="#67e8f9" class="pulse" style="transform-origin:519px 47px"/>
+  </g>
+
+  <g transform="translate(82 1192)">
+    <path d="M0 20L20 0H556V190L534 212H0Z" fill="#071827" stroke="#164e63" stroke-width="2"/>
+    <path d="M0 20L20 0H320" stroke="#7dd3fc" stroke-width="3" fill="none"/>
+    <text x="25" y="65" class="num">05</text><text x="105" y="43" class="label">DELIVERY</text><text x="105" y="80" class="module-title">SHIP LINE</text>
+    <path d="M25 103H520" stroke="#164e63" stroke-width="2"/>
+    <text x="25" y="143" class="tool">Git · Docker · CI · Figma</text><text x="25" y="178" class="tool">automated testing</text><text x="25" y="208" class="tool">production debugging</text>
+    <circle cx="519" cy="47" r="9" fill="#38bdf8" class="blink" filter="url(#glow)"/>
+  </g>
+
+  <g fill="#071b2d" stroke="#38bdf8" stroke-width="2"><circle cx="62" cy="184" r="9"/><circle cx="62" cy="434" r="9"/><circle cx="62" cy="684" r="9"/><circle cx="62" cy="956" r="9"/><circle cx="62" cy="1206" r="9"/></g>
+  <rect class="scan" x="40" y="0" width="640" height="170" fill="url(#scan)" pointer-events="none"/>
+  <text x="360" y="1430" text-anchor="middle" class="micro">SYSTEMS SYNCHRONIZED</text>
+</svg>

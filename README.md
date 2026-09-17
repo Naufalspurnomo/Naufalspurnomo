@@ -4,7 +4,7 @@
 
 <img src="./assets/origami-banner-animated.svg" width="100%" alt="Animated Tobiichi Origami command interface for Naufal Shidqi Purnomo" />
 
-# `NAUFAL SHIDQI PURNOMO // ANGEL SYSTEM`
+<img src="./assets/angel-nameplate.svg" width="100%" alt="Animated identity nameplate for Naufal Shidqi Purnomo, Angel System Unit 01" />
 
 ### Frontend & Product Developer
 
@@ -29,19 +29,12 @@
 
 <img src="./assets/origami-divider.svg" width="100%" alt="Cyan Origami system divider" />
 
-<details>
-<summary><b>02 // OPEN TECH LOADOUT</b></summary>
-<br/>
+## `02 // TECH LOADOUT`
 
-| Channel | Active tools |
-|:--|:--|
-| **Interface** | React · Next.js · Vue.js · TypeScript · JavaScript · Tailwind CSS |
-| **Product** | Node.js · REST APIs · PostgreSQL · Prisma · authentication · payments |
-| **Automation** | Python · OCR · media processing · AI/LLM integration · PDF workflows |
-| **Learning** | PHP · WordPress · LMS operations · content systems |
-| **Delivery** | Git · Docker · CI · automated testing · production debugging · Figma |
-
-</details>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/angel-loadout-grid-mobile.svg" />
+  <img src="./assets/angel-loadout-grid.svg" width="100%" alt="Animated Angel System technology loadout showing interface, product, automation, learning, and delivery tools" />
+</picture>
 
 <img src="./assets/origami-divider.svg" width="100%" alt="Cyan Origami system divider" />
 

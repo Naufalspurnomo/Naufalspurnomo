@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Angel System technology loadout</title>
+  <desc id="desc">Animated five-module arsenal grid listing Naufal Shidqi Purnomo's interface, product, automation, learning, and delivery tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061426"/><stop offset=".55" stop-color="#091c31"/><stop offset="1" stop-color="#030b16"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0ea5e9" stop-opacity=".25"/><stop offset=".5" stop-color="#bae6fd"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".12"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".045"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .route{animation:route 4.5s linear infinite}.route2{animation:route 6s linear infinite reverse}.scan{animation:scan 7s ease-in-out infinite}.blink{animation:blink 2s ease-in-out infinite}.ring{transform-origin:center;animation:spin 14s linear infinite}.trace{animation:trace 5s ease-in-out infinite}
+    @keyframes route{to{stroke-dashoffset:-240}}@keyframes scan{0%,12%{transform:translateY(-150px);opacity:0}20%{opacity:1}65%,100%{transform:translateY(650px);opacity:0}}@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes trace{0%,100%{stroke-dashoffset:900;opacity:.4}50%,75%{stroke-dashoffset:0;opacity:1}}
+    @media(prefers-reduced-motion:reduce){.route,.route2,.scan,.blink,.ring,.trace{animation:none!important}.scan{opacity:0}.trace{stroke-dashoffset:0;opacity:1}}
+    .label{font:700 13px Arial,Helvetica,sans-serif;letter-spacing:3px;fill:#38bdf8}.title{font:800 24px Arial,Helvetica,sans-serif;letter-spacing:2px;fill:#e0f2fe}.tool{font:600 17px Arial,Helvetica,sans-serif;fill:#bae6fd}.micro{font:700 10px Arial,Helvetica,sans-serif;letter-spacing:2px;fill:#7dd3fc}.num{font:800 38px Arial,Helvetica,sans-serif;fill:#164e63}
+  </style>
+  <path d="M25 18H1132L1176 62V588L1139 632H63L24 593Z" fill="url(#bg)" stroke="#164e63" stroke-width="2"/>
+  <path d="M40 35H1122L1158 71V576L1127 614H76L42 581Z" fill="url(#grid)"/>
+  <path class="trace" d="M25 18H1132L1176 62V588L1139 632H63L24 593Z" fill="none" stroke="url(#edge)" stroke-width="2" stroke-dasharray="900 900"/>
+  <path d="M46 54H630" stroke="#38bdf8"/><path d="M630 54H1119" stroke="#164e63"/>
+  <text x="62" y="87" class="label">ANGEL ARSENAL // DEPLOYMENT MATRIX</text><text x="1118" y="87" text-anchor="end" class="micro">05 ACTIVE CHANNELS</text>
+  <circle cx="1140" cy="82" r="5" fill="#67e8f9" class="blink" filter="url(#glow)"/>
+
+  <!-- circuit backbone -->
+  <path d="M600 108V143H560V296H600V327H640V296H680V143H640V108M600 327V363H560V519H600V554M640 327V363H680V519H640V554" fill="none" stroke="#164e63" stroke-width="3"/>
+  <path class="route" d="M600 108V143H560V296H600V327H640V296H680V143H640V108" fill="none" stroke="#67e8f9" stroke-width="3" stroke-dasharray="8 232"/>
+  <path class="route2" d="M600 554V519H560V363H600V327H640V363H680V519H640V554" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="8 232"/>
+  <g fill="#071b2d" stroke="#38bdf8"><circle cx="620" cy="108" r="8"/><circle cx="620" cy="327" r="10"/><circle cx="620" cy="554" r="8"/></g>
+
+  <!-- Interface, wide top left -->
+  <g transform="translate(62 116)">
+    <path d="M0 18L18 0H470L494 24V162L476 180H0Z" fill="#071827" stroke="#164e63"/>
+    <path d="M0 18L18 0H264" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <text x="24" y="48" class="num">01</text><text x="82" y="34" class="label">INTERFACE</text><text x="82" y="60" class="title">SURFACE ENGINE</text>
+    <path d="M26 80H465" stroke="#164e63"/>
+    <text x="26" y="111" class="tool">React  ·  Next.js  ·  Vue.js</text><text x="26" y="144" class="tool">TypeScript  ·  JavaScript  ·  Tailwind CSS</text>
+    <path d="M444 19l20 12v24l-20 12-20-12V31Z" fill="none" stroke="#38bdf8"/><path d="M434 43h20M444 33v20" stroke="#7dd3fc"/>
+  </g>
+
+  <!-- Product top right -->
+  <g transform="translate(684 116)">
+    <path d="M0 24L24 0H428L452 24V180H18L0 162Z" fill="#071827" stroke="#164e63"/>
+    <path d="M0 24L24 0H250" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <text x="24" y="48" class="num">02</text><text x="82" y="34" class="label">PRODUCT</text><text x="82" y="60" class="title">SYSTEM CORE</text>
+    <path d="M26 80H425" stroke="#164e63"/>
+    <text x="26" y="111" class="tool">Node.js  ·  REST APIs  ·  PostgreSQL</text><text x="26" y="144" class="tool">Prisma  ·  authentication  ·  payments</text>
+    <g transform="translate(405 43)" fill="none" stroke="#7dd3fc"><circle r="20"/><circle r="8"/><path d="M-28 0H28M0-28V28"/></g>
+  </g>
+
+  <!-- Automation large lower left -->
+  <g transform="translate(62 350)">
+    <path d="M0 0H494V184L474 204H20L0 184Z" fill="#071827" stroke="#164e63"/>
+    <path d="M0 0H308" stroke="#67e8f9" stroke-width="2"/>
+    <text x="24" y="49" class="num">03</text><text x="82" y="34" class="label">AUTOMATION</text><text x="82" y="60" class="title">WORKFLOW ARRAY</text>
+    <path d="M26 82H463" stroke="#164e63"/>
+    <text x="26" y="116" class="tool">Python  ·  OCR  ·  media processing</text><text x="26" y="151" class="tool">AI/LLM integration  ·  PDF workflows</text>
+    <g transform="translate(445 43)" fill="none" stroke="#38bdf8"><path d="M-25 14L0-25l25 39Z"/><circle cy="4" r="8"/><path d="M0-25V-34"/></g>
+    <text x="26" y="185" class="micro">ROUTINES READY // SIGNAL LOCKED</text>
+  </g>
+
+  <!-- Learning middle lower -->
+  <g transform="translate(684 350)">
+    <path d="M0 0H214L232 18V204H0Z" fill="#071827" stroke="#164e63"/>
+    <path d="M0 0H136" stroke="#38bdf8" stroke-width="2"/>
+    <text x="20" y="42" class="num">04</text><text x="76" y="29" class="label">LEARNING</text><text x="76" y="55" class="title">KNOWLEDGE</text>
+    <path d="M20 75H207" stroke="#164e63"/>
+    <text x="20" y="107" class="tool">PHP · WordPress</text><text x="20" y="139" class="tool">LMS operations</text><text x="20" y="171" class="tool">content systems</text>
+  </g>
+
+  <!-- Delivery narrow right -->
+  <g transform="translate(930 350)">
+    <path d="M0 18L18 0H206V184L188 204H0Z" fill="#071827" stroke="#164e63"/>
+    <path d="M0 18L18 0H130" stroke="#7dd3fc" stroke-width="2" fill="none"/>
+    <text x="18" y="47" class="num">05</text><text x="74" y="30" class="label">DELIVERY</text><text x="74" y="56" class="title">SHIP LINE</text>
+    <path d="M18 75H185" stroke="#164e63"/>
+    <text x="18" y="104" class="tool">Git · Docker · CI</text><text x="18" y="133" class="tool">automated testing</text><text x="18" y="162" class="tool">production debugging</text><text x="18" y="190" class="tool">Figma</text>
+  </g>
+
+  <g transform="translate(620 327)"><circle class="ring" r="25" fill="#061426" stroke="#38bdf8" stroke-dasharray="16 8 3 8"/><path d="M0-11L10 7H-10Z" fill="none" stroke="#bae6fd"/><circle r="3" fill="#67e8f9" filter="url(#glow)"/></g>
+  <rect class="scan" x="42" y="0" width="1116" height="120" fill="url(#scan)" pointer-events="none"/>
+  <path d="M62 588H418M782 588H1135" stroke="#0ea5e9" opacity=".35"/><text x="620" y="593" text-anchor="middle" class="micro">SYSTEMS SYNCHRONIZED</text>
+</svg>
