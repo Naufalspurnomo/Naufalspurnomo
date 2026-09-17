@@ -34,6 +34,13 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?color_snake=grey&color_dots=#c0c0c0,#e0e0e0,#5b5b5b,#8b8b8b
 
+      - name: Generate GitHub telemetry cards
+        run: node scripts/generate_profile_stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          PROFILE_OUTPUT_DIR: dist
+
       - name: Generate Origami Matrix
         run: node scripts/generate_matrix.js
         env:
