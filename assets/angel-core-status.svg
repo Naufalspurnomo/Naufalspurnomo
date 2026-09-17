@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Angel Core system status</title>
+  <desc id="desc">A navy and cyan animated science-fiction interface with a central angel emblem, asymmetric orbit rings, signal waveform, circuit pulses, and four active creative development modes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#07182b"/><stop offset="1" stop-color="#03101f"/></linearGradient>
+    <linearGradient id="ice" x1="0" x2="1"><stop stop-color="#0e7490"/><stop offset=".48" stop-color="#e0f2fe"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#e0f2fe"/><stop offset=".18" stop-color="#7dd3fc"/><stop offset=".48" stop-color="#0e7490"/><stop offset="1" stop-color="#020617" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".055"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.label{fill:#e0f2fe;font-weight:700;letter-spacing:2px}.micro{fill:#64748b;font-size:11px;letter-spacing:1.5px}.cyan{fill:#7dd3fc}.orbit{transform-origin:600px 214px;animation:spin 18s linear infinite}.orbit2{transform-origin:600px 214px;animation:spinBack 25s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.dash{animation:dash 5s linear infinite}.flow{animation:flow 3s linear infinite}.blink{animation:blink 1.8s steps(2,end) infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes spinBack{to{transform:rotate(-360deg)}}@keyframes pulse{50%{opacity:.35;transform:scale(.92)}}@keyframes dash{to{stroke-dashoffset:-120}}@keyframes flow{to{stroke-dashoffset:-42}}@keyframes blink{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="428" rx="18" fill="url(#bg)" stroke="#164e63" stroke-width="2"/>
+  <rect x="12" y="12" width="1176" height="406" rx="12" fill="url(#grid)" stroke="#0e7490" stroke-opacity=".35"/>
+  <path d="M12 76h138l22-22h233M795 54h233l22 22h138M12 356h130l20 20h243M795 376h243l20-20h130" fill="none" stroke="#38bdf8" stroke-opacity=".48"/>
+  <text x="38" y="43" class="mono label" font-size="15">ANGEL CORE // SYSTEM IDENTITY</text><text x="1160" y="43" text-anchor="end" class="mono micro blink">LINK ACTIVE</text>
+  <circle cx="600" cy="214" r="116" fill="url(#core)" opacity=".34" filter="url(#soft)"/>
+  <g class="orbit" fill="none" stroke="#38bdf8"><ellipse cx="600" cy="214" rx="145" ry="103" stroke-opacity=".5" stroke-dasharray="7 13"/><path d="M455 214a145 103 0 0 1 242-76" stroke-width="3" filter="url(#glow)"/><circle cx="456" cy="214" r="4" fill="#e0f2fe"/></g>
+  <g class="orbit2" fill="none" stroke="#7dd3fc"><ellipse cx="600" cy="214" rx="112" ry="147" transform="rotate(33 600 214)" stroke-opacity=".38" stroke-dasharray="35 16 4 16"/><circle cx="681" cy="110" r="3" fill="#7dd3fc"/></g>
+  <circle cx="600" cy="214" r="75" fill="#041327" stroke="#7dd3fc" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="600" cy="214" r="56" fill="none" stroke="#164e63" stroke-width="7" stroke-dasharray="2 8"/>
+  <g class="pulse" style="transform-origin:600px 214px" fill="url(#ice)" filter="url(#glow)"><path d="M600 153l15 37 48-20-28 43 28 45-49-22-14 39-14-39-49 22 28-45-28-43 48 20z" opacity=".84"/><circle cx="600" cy="214" r="18" fill="#e0f2fe"/></g>
+  <text x="600" y="337" text-anchor="middle" class="mono label" font-size="14">BUILD WITH PRECISION. SHIP WITH PURPOSE.</text>
+  <g class="mono">
+    <g transform="translate(52 111)"><path d="M0 0h280l14 14v54l-14 14H0" fill="#061426" stroke="#164e63"/><path d="M0 0h84" stroke="#7dd3fc" stroke-width="3"/><text x="20" y="32" class="label" font-size="15">INTERFACE</text><text x="20" y="56" class="micro">PRODUCT SURFACES</text><text x="260" y="47" text-anchor="end" class="cyan" font-size="12">READY</text></g>
+    <g transform="translate(52 231)"><path d="M0 0h280l14 14v54l-14 14H0" fill="#061426" stroke="#164e63"/><path d="M0 82h84" stroke="#38bdf8" stroke-width="3"/><text x="20" y="32" class="label" font-size="15">AUTOMATION</text><text x="20" y="56" class="micro">REPEATABLE FLOWS</text><text x="260" y="47" text-anchor="end" class="cyan" font-size="12">ACTIVE</text></g>
+    <g transform="translate(854 111)"><path d="M294 0H14L0 14v54l14 14h280" fill="#061426" stroke="#164e63"/><path d="M294 0h-84" stroke="#7dd3fc" stroke-width="3"/><text x="274" y="32" text-anchor="end" class="label" font-size="15">VISUAL</text><text x="274" y="56" text-anchor="end" class="micro">MOTION + MEDIA</text><text x="34" y="47" class="cyan" font-size="12">SYNCED</text></g>
+    <g transform="translate(854 231)"><path d="M294 0H14L0 14v54l14 14h280" fill="#061426" stroke="#164e63"/><path d="M294 82h-84" stroke="#38bdf8" stroke-width="3"/><text x="274" y="32" text-anchor="end" class="label" font-size="15">SYSTEMS</text><text x="274" y="56" text-anchor="end" class="micro">CONNECTED PRODUCTS</text><text x="34" y="47" class="cyan" font-size="12">READY</text></g>
+  </g>
+  <g fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 6" class="flow"><path d="M346 152h72l26 28"/><path d="M346 272h72l26-25"/><path d="M854 152h-72l-26 28"/><path d="M854 272h-72l-26-25"/></g>
+  <path d="M31 397h130l14-11 16 18 18-25 15 18 19-8 15 8h160" fill="none" stroke="url(#ice)" stroke-width="2" class="dash" stroke-dasharray="10 6"/>
+  <text x="1160" y="400" text-anchor="end" class="mono micro">GENERAL-PURPOSE CREATIVE DEVELOPMENT</text>
+</svg>
